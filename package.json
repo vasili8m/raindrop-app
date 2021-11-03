@@ -65,7 +65,7 @@
 		"react-sortablejs": "6.0.x",
 		"react-window": "^1.8.5",
 		"sortablejs": "^1.12.0",
-		"validator": "13.6.x",
+		"validator": "13.7.x",
 		"webextension-polyfill": "0.8.x"
 	},
 	"optionalDependencies": {
